@@ -1,0 +1,74 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "Rapporten",
+          "inputType": "text",
+          "output": "Reports",
+          "caseSensitive": false
+        },
+         {
+          "input": "Archief",
+          "inputType": "text",
+          "output": "Archive",
+          "caseSensitive": false
+        },
+         {
+          "input": "Betalingen",
+          "inputType": "text",
+          "output": "Payments",
+          "caseSensitive": false
+        },
+         {
+          "input": "Historiek",
+          "inputType": "text",
+          "output": "History",
+          "caseSensitive": false
+        },
+         {
+          "input": "Kerncijfers voor",
+          "inputType": "text",
+          "output": "Key figures for",
+          "caseSensitive": false
+        },
+         {
+          "input": "Andere opbrengsten",
+          "inputType": "text",
+          "output": "Other revenues",
+          "caseSensitive": false
+        },
+         {
+          "input": "Totale opbrengsten",
+          "inputType": "text",
+          "output": "Total revenues",
+          "caseSensitive": false
+        },
+         {
+          "input": "Andere kosten",
+          "inputType": "text",
+          "output": "Other costs",
+          "caseSensitive": false
+        },
+         {
+          "input": "Totale kosten",
+          "inputType": "text",
+          "output": "Other costs",
+          "caseSensitive": false
+        },
+         {
+          "input": "Mijn profiel",
+          "inputType": "text",
+          "output": "My profile",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto"
+    }
+  ]
+}
